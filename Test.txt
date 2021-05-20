@@ -2,4 +2,6 @@ In this section, you will hear there newsreports.
 
 Have fun!
 
-Test for commit --amend
+Test for commit --amend 1
+
+Test for commit --amend 2
