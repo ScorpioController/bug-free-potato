@@ -1,3 +1,5 @@
 In this section, you will hear there newsreports.
 
 Have fun!
+
+Test for commit --amend
