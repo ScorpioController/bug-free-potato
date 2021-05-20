@@ -5,3 +5,5 @@ Have fun!
 Test for commit --amend 1
 
 Test for commit --amend 2
+
+Test for reset.
